@@ -87,3 +87,36 @@ Même si j'ai aimé le jeu, rien ne m'a donné envie d'y rester pour tout son co
 #### Super Meat Boy: 7.5/10
 
 ---
+# Pikuniku
+
+![Bannière de Super Meat Boy](/assets/img/articles/qb_3_smb_pikuniku/pikuniku_banner.jpg)
+
+## Vive la France
+
+Pikuniku, sorti le 8 Février 2019, est un jeu Français ! Enfin à moitié, il a été développé par le studio Franco-Britannique (alliance contre-nature) Sectordub. Ce petit studio a créé un jeu de plateforme/puzzle bien loufoque, assez atypique pour attirer Devolver Digital, qui adore éditer tout un tas de jeux bizarres mais très créatifs.
+
+Le jeu a connu son petit succès avec une sortie multiplateforme sur PC et consoles (Nintendo Switch et xBox), et le plus grand des indicateurs de succès: l'honneur que lui a fait Google en lui permettant d'être un des 280 jeux accueills sur Google Stadia !
+
+Avec ses graphismes simples, sa BO entrainante qui fait le plaisir de tous les vidéastes gaming, sa critique accerbe du capitalisme, Pikuniku a su très largement convaincre son public (93% d'avis positifs sur Steam avec près de 9 000 reviews). 
+
+## L'argent gratuit n'existe pas
+
+En début de partie, Piku sort de sa grotte et se retrouve très vite dans un village qui le prend pour un terrible monstre s'appretant à tous les tuer. Piku casse accidentellement le pont du village et est enfermé par les villageois. Il est libéré après avoir promis de le libérer mais est vite confronté à un nouveau problème: Mr. Sunshine et sa Sunshine Inc. Une entreprise exploitant le travail des villageois en échange d'argent, offert gratuitement ! 
+
+Au fil de l'aventure, Piku va explorer le monde et, un peu malgré lui, poursuivre et arrêter Mr. Sunshine.
+
+Le jeu est en effet une critique extrêmement subtil du modèle capitaliste, parodié et réduit à une version cartoonesque correspondant parfaitement au ton du jeu. Mr. Sunshine est riche, extrêmement riche et n'hésite pas à dépenser des fortunes colossales et à mentir à tout le monde pour exploiter les travailleurs et les ressources de la planète afin de s'enrichir encore plus et de modeler le monde à sa façon.
+
+Face à lui se dresse donc Piku, une créature sympathique et désintéressée. Il est en quelques sortes le miroir de Mr. Sunshine. Il aide vraiment les gens, sans rien demander en retour. Il aidera une faction de rebelle à faire tomber Mr. Sunshine et son entreprise, découvrant au passage tous les ravages qu'il a causé.
+
+Avec des idées exprimées aussi simplement, Pikuniku peut dérouler sa parodie et ses critiques de la façon la plus limpide qui soit. Dans ce jeu, le capitalisme et ce qu'il engendre parait bête, une conséquence désastreuse venue des actions égoïstes de quelques idiots qui se croient tout puissant à cause de leur richesse financière.
+
+Heureusement, ce n'est qu'une parodie, ça ne se passerait jamais comme ça en vrai :)
+
+**:)**
+
+Il le fait aussi avec beaucoup d'humour, souvent très absurde, ce qui permet d'éviter d'avoir l'impression d'une critique calée au chausse-pieds. Ça passe comme du petit lait, comme on dit. 
+
+## Il suffit de traverser la rue
+
+Niveau gameplay, Pikuniku est aussi extrêment basique
