@@ -99,24 +99,47 @@ Le jeu a connu son petit succès avec une sortie multiplateforme sur PC et conso
 
 Avec ses graphismes simples, sa BO entrainante qui fait le plaisir de tous les vidéastes gaming, sa critique accerbe du capitalisme, Pikuniku a su très largement convaincre son public (93% d'avis positifs sur Steam avec près de 9 000 reviews). 
 
-## L'argent gratuit n'existe pas
+## La vie d'un entrepreneur est bien plus dure que celle d'un salarié
 
-En début de partie, Piku sort de sa grotte et se retrouve très vite dans un village qui le prend pour un terrible monstre s'appretant à tous les tuer. Piku casse accidentellement le pont du village et est enfermé par les villageois. Il est libéré après avoir promis de le libérer mais est vite confronté à un nouveau problème: Mr. Sunshine et sa Sunshine Inc. Une entreprise exploitant le travail des villageois en échange d'argent, offert gratuitement ! 
-
+En début de partie, Piku sort de sa grotte et se retrouve très vite dans un village qui le prend pour un terrible monstre s'appretant à tous les tuer. Piku casse accidentellement le pont du village et est enfermé par les villageois. Il est libéré après avoir promis de le libérer mais est vite confronté à un nouveau problème: Mr. Sunshine et sa Sunshine Inc. Une entreprise exploitant le travail des villageois en échange d'argent, offert gratuitement !  
 Au fil de l'aventure, Piku va explorer le monde et, un peu malgré lui, poursuivre et arrêter Mr. Sunshine.
+
+![Scène du début de Pikuniku, ](/assets/img/articles/qb_3_smb_pikuniku/pikuniku_village.jpg)
+_Au début du jeu, les villageois vous capturent et vous enferment pour avoir détruit leur pont_
 
 Le jeu est en effet une critique extrêmement subtil du modèle capitaliste, parodié et réduit à une version cartoonesque correspondant parfaitement au ton du jeu. Mr. Sunshine est riche, extrêmement riche et n'hésite pas à dépenser des fortunes colossales et à mentir à tout le monde pour exploiter les travailleurs et les ressources de la planète afin de s'enrichir encore plus et de modeler le monde à sa façon.
 
 Face à lui se dresse donc Piku, une créature sympathique et désintéressée. Il est en quelques sortes le miroir de Mr. Sunshine. Il aide vraiment les gens, sans rien demander en retour. Il aidera une faction de rebelle à faire tomber Mr. Sunshine et son entreprise, découvrant au passage tous les ravages qu'il a causé.
 
-Avec des idées exprimées aussi simplement, Pikuniku peut dérouler sa parodie et ses critiques de la façon la plus limpide qui soit. Dans ce jeu, le capitalisme et ce qu'il engendre parait bête, une conséquence désastreuse venue des actions égoïstes de quelques idiots qui se croient tout puissant à cause de leur richesse financière.
+Avec des idées exprimées aussi simplement, Pikuniku peut dérouler sa parodie et ses critiques de la façon la plus limpide qui soit. Dans ce jeu, le capitalisme est montré comme ce qu'il est: un système destructeur, où les actions égoïstes de quelques idiots qui se croient tout puissant à cause de leur richesse financière. Il affecte le monde entier négativement, faune comme flore, sauf les responsables des désastres que ce modèle de société engendre !
 
 Heureusement, ce n'est qu'une parodie, ça ne se passerait jamais comme ça en vrai :)
 
 **:)**
 
-Il le fait aussi avec beaucoup d'humour, souvent très absurde, ce qui permet d'éviter d'avoir l'impression d'une critique calée au chausse-pieds. Ça passe comme du petit lait, comme on dit. 
+Il le fait aussi avec beaucoup d'humour, souvent très absurde, ce qui permet d'éviter d'avoir l'impression d'une critique calée au chausse-pieds. Ça passe comme du petit lait, comme on dit. Surtout qu'il met le doigt en très peu de temps &mdash; j'ai mis environ 3h30 à en voir le bout &mdash; sur beaucoup de sujets importants lorsqu'on veut discuter capitalisme: l'accumulation de richesse, la recherche perpétuelle de profits et de croissance, l'écologie, l'exploitation des travailleurs, etc...
 
-## Il suffit de traverser la rue
+##  Je traverse la rue et je vous trouve un travail
 
-Niveau gameplay, Pikuniku est aussi extrêment basique
+Niveau gameplay, Pikuniku est aussi extrêment basique. C'est un jeu de plateforme dont les deux particularités sont la possibilité de se rouler en boule pour avancer plus vite ou emprunter des chemins étroits et la possibilité de donner des coups de pieds en étendant les jambes de Piku. Ce sera utilisé pour déplacer des objets, mais aussi pour s'accrocher et se pendre à des crochets ou des lianes. Vous pouvez aussi donner des coups aux villageois, mais ce ne serait vraiment pas gentil :(
+
+Votre progression sera régulièrement bloquée par des énigmes et puzzles très simples qui seront une bonne excuse soit pour vous faire explorer la carte, soit pour vous faire rencontrer des personnages divers et variés. 
+Il y a aussi pas mal de mini-jeux un peu partout au sein des quelques zones de la carte. Pour ceux atteint de complétionite aigue, sachez qu'il y a aussi plusieurs zones secrètes et tout un tas de chapeaux à collectionner. 
+
+Pikuniku n'a pas pour but de vous résister, c'est avant tout un jeu auquel on joue pour se détendre, sans prise de tête. C'est pour ça que la simplicité du gameplay n'est pas un problème selon moi. Surtout dans un jeu assez court qui veut avant tout nous faire rire (et critiquer le capitalisme évidemment).
+Le jeu brille par ce contraste entre un sujet plutôt sérieux et son traitement extrêmement léger, rempli de blagues absurdes culminant par l'éjection de son grand méchant au loin, de la même façon qu'on se débarasserait de la Team Rocket.
+
+|---|---|
+|![Dialogue de Pikuniku, entre Piku et un robot](/assets/img/articles/qb_3_smb_pikuniku/pikuniku_npc.jpg) | ![Mini-jeu de Pikuniku, dans lequel on joue au basket contre une créature rose](/assets/img/articles/qb_3_smb_pikuniku/pikuniku_minigame.jpg) |
+
+Je n'en parlerai pas en détail ici car je n'ai pas pu y jouer, mais le jeu propose aussi un mode co-op à deux joueurs, 
+
+## La meilleure façon de se payer un costard c'est de travailler
+
+Au final, Pikuniku est un jeu que je ne peux que vous recommander. Il est loin d'être le jeu le plus impactant auquel vous jouerez, mais il est difficile de critiquer sans mauvaise fois ce qu'il propose. Les créateurs de ce jeu avait une idée en tête qu'ils ont mené à bien et il en ressort un jeu qui ne rate rien, même s'il ne brille jamais vraiment non plus.
+
+Agréable à jouer, agréable à regarder, agréable à écouter aussi également. Je n'ai pas eu l'occasion de beaucoup parler de musique dans cet article, mais celle de Pikuniku est d'excellente facture. Au même titre que les graphismes, la musique est simple, efficace et colle parfaitement au ton général du jeu. Le titre [`Free Money`](https://youtu.be/mrnipxEveG8?si=HoA6b8iGkAHZ9T5c) en est le meilleur exemple.
+
+Si vous cherchez un petit jeu de plateforme pas prise de tête mais qui n'est pas vide pour autant, Pikuniku est un excellent choix !
+
+#### Pikuniku:  7.5/10
