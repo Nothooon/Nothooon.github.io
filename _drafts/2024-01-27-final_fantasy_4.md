@@ -1,17 +1,14 @@
 ---
 layout: post
-title:  "(WIP) Final Fantasy IV - 50/50"
+title:  "Final Fantasy IV - La métamorphose de la série"
+description: "4ème épisode de la série, 1er épisode sur SNES, FF4 a une importance toute particulière dans la série"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
-date: "2024-01-27"
-lang: fr
+date: 2024-01-27
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg
   alt: Final Fantasy 4 Logo # or base64 URI
 ---
-
-> I played the game with x4 exp and gils
-{: .prompt-info }
 
 # Final Fantasy IV
 

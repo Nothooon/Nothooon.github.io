@@ -22,7 +22,7 @@ A la base, Meat Boy est un jeu flash développé par Edmund McMillen et Jonathan
 
 Super Meat Boy est un classique du jeu indé. Depuis sa sortie en 2010, il a toujours maintenu une présence dans le monde du jeu-vidéo, que ce soit grâce à sa communauté de speedrun ou l'influence d'un de ces créateurs (un certain Edmund McMillen). 
 
-Le jeu fête donc ses 15 ans à la fin du moi (le 30 Novembre) et on découvrira bientôt un nouveau jeu de la licence: Super Meat Boy 3D. On croise les doigts pour qu'il soit meilleur que Super Meat Boy Forever, ce qui ne devrait pas être trop difficile.
+Le jeu fête donc ses 15 ans à la fin du mois (le 30 Novembre) et on découvrira bientôt un nouveau jeu de la licence: Super Meat Boy 3D. On croise les doigts pour qu'il soit meilleur que Super Meat Boy Forever, ce qui ne devrait pas être trop difficile.
 
 En 2010, le jeu indé était encore balbutiant. A part Braid et League of Legends (sortis respectivement en 2008 et 2009), il n'y a pas grand chose à se mettre sous la dent niveau jeux indés. C'est en 2011 que du très lourd débarque avec [Bastion]( {{ site.url }}/posts/qb_2_bastion ), Terraria, The Binding of Isaac (créé par un ceratin Edmund McMillen) ou encore Minecraft.  
 Je doute que Super Meat Boy ait vraiment influencé le développement de ces jeux (à part The Binding of Isaac évidemment), mais son succès a très certainement contribué à celui des jeux susnommés.
