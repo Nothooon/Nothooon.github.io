@@ -12,8 +12,8 @@ image:
 
 ## Une histoire de confiture
 
-*Pseudoregalia* est un jeu développé en grande partie par une seul personne, rittz. Le jeu est sorti sur Steam et itch.io en 2023 et a reçu quelques mises à jour après sa sortie.  
-C'est à l'occasion d'une gamejam, organisée par itch.io, que le jeu a vu le jour. Après un mois de développement acharné, rittz remporte la Metroidvania Month 19 en Mars 2023 avec de très beaux scores:
+*Pseudoregalia* est un jeu développé en grande partie par une seule personne, rittz. Le jeu est sorti sur Steam et itch.io en 2023 et a reçu quelques mises à jour après sa sortie.  
+C'est à l'occasion d'une gamejam, organisée par itch.io, que le jeu a pu voir le jour. Après un mois de développement acharné, rittz remporte la Metroidvania Month 19 en Mars 2023 avec de très beaux scores:
 
 ![Notes attribuées à Pseudoregalia lors de la gamejam](/assets/img/articles/qb_5_pseudoregalia/gamejam_ratings.png)
 _Notes reçues par Pseudoregalia suite à la GameJam Metroid Month 19_
@@ -22,12 +22,12 @@ Il continuera le développement du jeu et la version complète sera rendue dispo
 
 ## C'est dans les vieux pots qu'on fait les meilleures
 
-*Pseudoregalia* fait parti d'une mouvance qui n'a pas vraiment de nom malgré sa popularité: celle des jeux émulant les graphismes de la 5ème génération de consoles (PS1/N64). Angles accérés, textures de basse résolution, low poly, etc... il utilise toutes ces caractéristiques graphiques pour reproduire le rendu des jeux de la PS1 au début de la 3D. Le jeu n'est donc vraiment pas beau, mais en même temps, il l'est puisque c'est une esthétique choisie volontairement, mûrement réfléchie et très bien maitrisée.
+*Pseudoregalia* fait parti d'une mouvance qui n'a pas vraiment de nom malgré sa popularité: celle des jeux émulant les graphismes de la 5ème génération de consoles (PS1/N64). Angles accérés, textures de basse résolution, low poly, etc... il utilise toutes ces caractéristiques graphiques pour reproduire le rendu des jeux de la PS1 au début de la 3D. Le jeu n'est donc vraiment pas beau, mais en même temps, il l'est puisque son esthétique a été choisie volontairement, mûrement réfléchie et très bien maitrisée.
 
 Le jeu n'a pas un univers très développé mais il est certain que les rêves en sont au coeur. La [page ichi.io](https://rittzler.itch.io/Pseudoregalia) du jeu décrit le jeu ainsi (traduction par mes soins):
 > "Quand la réalité semble s'effondrer, il est tentant de se retirer dans le monde des rêves pour s'échapper. Malheureusement, les rêves ne sont pas fait pour durer."
 
-L'esthétique du jeu est donc tout à fait justifiée. Les mondes dont on rêve sont souvent simples, rarement cohérents ou détaillés et les graphismes low poly de la PS1 sont parfaits pour reproduire ce sentiment. En plus, il n'est pas anodin que cette tendance des graphismes 3D rétros soit aussi populaire.  
+Le style graphique du jeu est donc tout à fait justifié. Les mondes dont on rêve sont souvent simples, rarement cohérents ou détaillés et les graphismes low poly de la PS1 sont parfaits pour reproduire cette ambiance. En plus, il n'est pas anodin que cette tendance des graphismes 3D rétros soit aussi populaire.  
 La PS1 et la N64 ont une trentaine d'années désormais, leurs jeux provoquent chez nous un fort sentiment de nostalgie, qui n'est finalement pas si loin d'une sensation de rêve.
 
 ![Une des tours du chateau](/assets/img/articles/qb_5_pseudoregalia/tower.png)
@@ -38,11 +38,11 @@ _Malgré ses graphismes low poly, Pseudoregalia propose quand même une architec
 > Le résultat final ressemble souvent aux jeux PS1 Low Poly comme *Pseudoregalia*, mais la démarche d'origine n'est pas la même !
 {: .prompt-info }
 
-Il serait tentant de dire que ces graphismes ont été choisis par facilité technique dans le contexte du Jam, ou pour suivre une tendance populaire. Mais je ne suis pas d'accord, le jeu maitrise extrêmement bien les codes de cette époque, on sent que les graphismes ont bénéficié d'un soin tout particulier, jusqu'à la distance d'affichage faible et limitée par un bon vieux brouillard dans ses zones les plus ouvertes.
+Il serait tentant de dire que ces graphismes ont été choisis par facilité technique dans le contexte de la gamejam, ou pour suivre une tendance populaire. Mais je ne suis pas d'accord, le jeu maitrise extrêmement bien les codes de cette époque, on sent que les graphismes ont bénéficié d'un soin tout particulier, jusqu'à la distance d'affichage faible et limitée par un bon vieux brouillard dans ses zones les plus ouvertes.
 
-Même la [musique du jeu](https://potatoteto.bandcamp.com/album/Pseudoregalia-ost) suit cette direction la plupart du temps. Je me trompe peut être, étant largement profane de la théorie musicale ou de la composition de manière générale, mais j'ai l'impression qu'un genre de "filtre lo-fi" est appliqué sur la bande son pour reproduire le son de moins bonne qualité des consoles des années 90, malgré la possibilité de composer de la musique bien plus librement qu'aux balbutiements du jeux vidéo.
+Même la [musique du jeu](https://potatoteto.bandcamp.com/album/Pseudoregalia-ost) suit cette direction la plupart du temps. Je me trompe peut être, étant largement profane de la théorie musicale ou de la composition de manière générale, mais j'ai l'impression qu'un genre de "filtre lo-fi" est appliqué sur les musiques pour reproduire le son de moins bonne qualité des consoles des années 90, malgré la possibilité de composer de la musique bien plus librement qu'aux balbutiements du jeux vidéo justifiant l'utilisation d'instruments et sonorités modernes.
 
-*Pseudoregalia* se démarque donc déjà par sa technique, intégralement dévouée à reproduire les jeux d'antan.
+*Pseudoregalia* se démarque donc déjà par sa technique, intégralement dévouée à reproduire les jeux d'antan et/ou à donner l'impression au joueur qu'il explore un rêve.
 
 ## Il ne suffit pas de deux coups de cuiller à pot
 
