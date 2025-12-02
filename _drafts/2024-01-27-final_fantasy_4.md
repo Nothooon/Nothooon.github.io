@@ -10,7 +10,15 @@ image:
   alt: Final Fantasy 4 Logo # or base64 URI
 ---
 
-# Final Fantasy IV
+## Le début d'une nouvelle ère
+
+Après trois épisodes sortis sur Famicom (et un seul hors du Japon), il est temps pour la licence de grandir et Square le sait. 
+A la base, après la sortie de FF3, un dernier épisode devait sortir sur Famicom, développé en même temps que le premier épisode de la série sur la nouvelle console de Nintendo.  
+Square décide d'annuler ce dernier épisode Famicom pour lancer tout de suite la production et le développement du prochain Final Fantasy sur la Super Famicom.  
+
+
+
+Seulement 8 mois après la sortie de la 
 
 ## Naration
 
@@ -41,3 +49,9 @@ image:
 - La SNES permet d'avoir des effets de parallaxe. C'est utilisé pour donner des effets de perspective, notamment de hauteur
 - A partir de ce FF, je n'écoute plus l'arrangement du Pixel Remaster mais la musique originale. Sans surprise, la SNES propose des musiques de bien meilleure qualité 
 - Le monde a l'air moins bien réfléchi que celui de FF3 étrangement, que ce soit le design des villes ou de l'overworld. Pour l'instant, ça donne l'impression que les devs ont vu à la baisse leur ambitions, sûrement car ils ne maitrisaient pas encore bien le dev sur SNES
+
+#### Sources
+
+- [Article de Lost Levels de Novembre 2003](http://www.lostlevels.org/200311/200311-square.shtml)
+- [Page Wikipédia de Final Fantasy IV](https://fr.wikipedia.org/wiki/Final_Fantasy_IV)
+- [La Légende Final Fantasy IV & V de Jonathan Remoiville](https://www.thirdeditions.com/products/la-legende-final-fantasy-iv-v)
