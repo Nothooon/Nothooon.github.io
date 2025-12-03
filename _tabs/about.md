@@ -12,7 +12,9 @@ Sur ce blog vous trouverez des articles divers et variés parlant majoritairemen
 
 Je joue depuis que j'ai 3 ans à peu près, tel un énorme nerd, donc j'ai joué à un paquet de jeux, même si mon genre de prédilection reste le RPG. 
 
-Dans chaque article, sauf exception, la date de publication sera toujours la date à laquelle j'ai terminé le jeu dont l'article parle. Vous n'aurez qu'à jeter un oeil à la date de modification de l'article pour constater que je mets énormément de temps à écrire. On va dire que c'est parce que je prends le temps de la réflection.. 
+~~Dans chaque article, sauf exception, la date de publication sera toujours la date à laquelle j'ai terminé le jeu dont l'article parle. Vous n'aurez qu'à jeter un oeil à la date de modification de l'article pour constater que je mets énormément de temps à écrire. On va dire que c'est parce que je prends le temps de la réflexion..~~
+
+Ça j'arrête pour les nouveaux articles, j'en parle dans le [bilan 2025]( {{ site.url }}/posts/bilan_2025 )  !
 
 J'ai aussi une notion de "jeu terminé" qui peut différer de celle d'autres joueurs. Je m'en fiche complètement de finir un jeu à 100%, ça ne m'intéresse pas. Je n'ai aussi aucun mal à considérer que j'ai fini un jeu sans y être allé au bout si j'estime avoir tout vu des mécaniques de jeux.  
 

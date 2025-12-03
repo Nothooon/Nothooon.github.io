@@ -42,7 +42,7 @@ Quand j'aurai terminé un des épisodes, je mettrai à jour ce sommaire pour y i
 |                    [Final Fantasy VII]( {{ site.url }}/posts/final_fantasy_7 )                    |       Terminé       | 27 Décembre 2024  |     ~51h     |
 |                   [Final Fantasy VIII]( {{ site.url }}/posts/final_fantasy_8 )                    |       Terminé       |   26 Juin 2025    |     ~44h     |
 |                    [Final Fantasy IX]( {{ site.url }}/posts/final_fantasy_9 )                     |       Terminé       |   13 Aout 2025    |     ~35h     |
-|                    [Final Fantasy X]( {{ site.url }}/posts/final_fantasy_10 )                     |      En Cours       |         /         |      /       |
+|                    [Final Fantasy X]( {{ site.url }}/posts/final_fantasy_10 )                     |       Terminé       | 30 Novembre 2025  |     ~30h     |
 |                  [Final Fantasy X-2]( {{ site.url }}/posts/final_fantasy_10_2 )                   | Pas encore commençé |         /         |      /       |
 |                   [Final Fantasy XII]( {{ site.url }}/posts/final_fantasy_12 )                    | Pas encore commençé |         /         |      /       |
 |                   [Final Fantasy XIII]( {{ site.url }}/posts/final_fantasy_13 )                   | Pas encore commençé |         /         |      /       |
