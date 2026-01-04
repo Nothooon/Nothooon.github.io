@@ -7,7 +7,7 @@ category: "Final Fantasy Marathon"
 date: 2025-12-03
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg
-  alt: Final Fantasy 4 Logo # or base64 URI
+  alt: Final Fantasy 4 Logo
 ---
 
 ## Le début d'une nouvelle ère
