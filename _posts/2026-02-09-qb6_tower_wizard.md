@@ -3,6 +3,7 @@ layout: post
 title:  "La Quête du Backlog VI - Tower Wizard"
 description: Une grosse tour pour mon gros magicien
 tags: avis-rapide
+author: <nothon>
 category: "La Quête du Backlog"
 date: 2026-02-09
 image:
