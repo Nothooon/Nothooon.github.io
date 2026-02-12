@@ -78,4 +78,3 @@ Honnêtement, ce système est franchement ennuyeux, il manque de peps et d'inté
 
 ![pan pan pan](/assets/img/articles/dp_1_arknights_endfield/tower_defense.png)
 _pan pan pan, boom BOOM !_
-
