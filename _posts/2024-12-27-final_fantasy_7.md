@@ -5,6 +5,7 @@ description: Inévitable, intemporel, celui qui a tout changé. J'ai enfin joué
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: 2026-01-30
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff7_logo.jpg
   alt: Final Fantasy 7 Logo

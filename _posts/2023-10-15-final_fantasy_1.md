@@ -4,6 +4,7 @@ description: "Aujourd'hui, j'ai fini le premier jeu d'un long marathon. Alors, c
 tags: [final-fantasy]
 category: ["Final Fantasy Marathon"]
 date: 2023-10-15
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff1_logo.jpeg
   alt: Logo de Final Fantasy I

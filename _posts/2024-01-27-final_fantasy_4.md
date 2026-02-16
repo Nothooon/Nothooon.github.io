@@ -4,6 +4,7 @@ title:  "Final Fantasy IV - La métamorphose de la série"
 description: "4ème épisode de la série, 1er épisode sur SNES, FF4 a une importance toute particulière dans la série"
 tags: final-fantasy
 category: "Final Fantasy Marathon"
+author: nothon
 date: 2025-12-03
 image:
   path: /assets/img/posts_preview_images/ff4_logo.jpg

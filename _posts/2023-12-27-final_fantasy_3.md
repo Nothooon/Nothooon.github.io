@@ -4,7 +4,7 @@ description: "L'ère de la NES se termine en beauté avec un 3ème épisode magi
 tags: [final-fantasy]
 category: ["Final Fantasy Marathon"]
 date: 2023-12-27
-lang: fr
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff3_logo.jpg
   alt: Logo de Final Fantasy III

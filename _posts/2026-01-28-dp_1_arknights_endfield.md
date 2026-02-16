@@ -5,6 +5,7 @@ description: L'Usine doit continuer à grandir, tout pour Endfield Industries.
 tags: prematuration
 category: "Dossiers Prématurés"
 date: 2026-01-28
+author: nothon
 image:
   path: /assets/img/posts_preview_images/dp_1_arknights_endfield.png
   alt: Banniere d'Arknights Endfield

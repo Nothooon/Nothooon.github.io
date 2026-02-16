@@ -5,6 +5,7 @@ description: "Un des meilleurs RPGs de tous les temps, tout simplement."
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: 2026-01-07
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff6_logo.jpg
   alt: Final Fantasy 6 Logo

@@ -4,6 +4,7 @@ description: "Final Fantasy II n'est quasiment jamais discuté. Mais comment l'e
 tags: [final-fantasy]
 category: ["Final Fantasy Marathon"]
 date: 2023-12-23
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff2_logo.jpg
   alt: Logo de Final Fantasy II

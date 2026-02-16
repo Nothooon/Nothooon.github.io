@@ -5,6 +5,7 @@ description: "Qui bondit le mieux entre le héros rouge de Super Meat Boy et cel
 tags: avis-rapide
 category: "La Quête du Backlog"
 date: 2024-10-06
+author: nothon
 image:
   path: /assets/img/posts_preview_images/qb_3_smb_pikuniku_logo.png
   alt: Banniere combinant les logos de Super Meat Boy et de Pikuniku

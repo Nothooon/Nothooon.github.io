@@ -4,7 +4,7 @@ description: "La Quête du Backlog commence ! Pour ce premier épisode, deux jeu
 tags: avis-rapide
 category: "La Quête du Backlog"
 date: "2024-09-13"
-lang: fr
+author: nothon
 image:
   path: /assets/img/posts_preview_images/qb_1_unpacking_neon_white_logo.png
   alt: Banniere d'Unpacking et de Neon White

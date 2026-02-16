@@ -5,6 +5,7 @@ description: "Coincé entre un FF4 révolutionnaire et un FF6 culte, qu'est-ce q
 tags: final-fantasy
 category: "Final Fantasy Marathon"
 date: 04-01-2026
+author: nothon
 image:
   path: /assets/img/posts_preview_images/ff5_logo.jpg
   alt: Final Fantasy 5 Logo
