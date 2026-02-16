@@ -78,3 +78,16 @@ Honnêtement, ce système est franchement ennuyeux, il manque de peps et d'inté
 
 ![pan pan pan](/assets/img/articles/dp_1_arknights_endfield/tower_defense.png)
 _pan pan pan, boom BOOM !_
+
+## Lui aussi doit s'étendre
+
+Pour l'instant, le jeu est solide mais loin d'être parfait, notamment sur l'histoire franchement anecdotique dans sa première partie sur Valley IV. Il y a une autre région que je n'ai pas explorée pour l'instant, donc à voir ce que celle ci propose. La nature du jeu l'empêchera vraissemblablement d'être aussi massif et tentaculaire que son prédécesseur, mais l'univers d'Arknights est tellement riche qu'il sera dommage de se contenter d'une histoire "à la Hoyoverse".
+
+Tant qu'Hypergryph restera sur ces bases solides et gardera son cap, Arknights Endfield restera une expérience gacha open world de premier plan et à de bonnes chances de se démarquer du lot par ses choix tranchés en terme de gameplay. J'ai bon espoir pour l'avenir du jeu et même si je ne m'investirai pas dans ce genre de jeu trop longtemps (j'ai déjà assez mangé merci), je le suivrai quand même, ne serait-ce que pour profiter du talent artistique du studio. 
+
+
+### Metableau
+
+| Temps de Jeu |         Genre         |     Plateforme      |  Prix   | Taille |
+| :----------: | :-------------------: | :-----------------: | :-----: | :----: |
+|  ~30 heures  | Gacha, RPG Open-World | Launcher Hypergryph | Gratuit |  70Go  |

@@ -58,7 +58,7 @@ Bien que limité par son genre qui ne permet pas non plus d'offrir des expérien
 Il m'a montré qu'on pouvait vraiment faire quelque chose de différent avec un jeu incrémental et qu'ils ne sont pas tous qu'un déguisement différent pour le même tableur excel. En proposant une expérience plus courte, plus encadrée et plus engageante que les autres jeux du genre auquel j'ai pu jouer, il a fini par être bien plus marquant à mes yeux.
 
 C'est le jeu idéal pour découvrir les jeux incrémentaux et un très bon jeu pour passer le temps et ça ne m'étonnerait pas qu'il finisse par sortir sur mobile.
-De toute façon, à 2,99# la copie, c'est dur d'en demander plus, Tower Wizard vaut carrément le coup :)
+De toute façon, à 2,99€ la copie, c'est dur d'en demander plus, Tower Wizard vaut carrément le coup :)
 
 ### Metableau
 
